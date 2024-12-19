@@ -1,2 +1,2 @@
-# ondeEstaOSmile
-Repositorio de um jogo de sorte para procurar o smle
+# Smile_Game
+Repositório do jogo Aonde está o Smile?
